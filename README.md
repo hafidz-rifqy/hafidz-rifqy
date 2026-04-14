@@ -32,19 +32,21 @@ Berikut adalah teknologi yang biasa saya gunakan sehari-hari:
 
 ### ⌗ GitHub Statistics
 
-<!-- Kartu Statistik Utama (Readme Stats) -->
+<!-- Statistik Utama (Akan muncul setelah ada commit kode) -->
 <p align="center">
-  <a href="https://github.com/hafidz-rifqy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafidz-rifqy&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Hafidz's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/hafidz-rifqy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz-rifqy&layout=compact&theme=dark&langs_count=6" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hafidz-rifqy&show_icons=true&theme=dark" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz-rifqy&layout=compact&theme=dark" alt="Languages"/>
 </p>
 
-<!-- Alternatif: Statistik Streak (Opsional, tapi bagus untuk ditampilkan) -->
+<!-- Statistik Streak (Yang ini sudah muncul) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidz-rifqy&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidz-rifqy&theme=dark" alt="Streak"/>
+</p>
+
+<!-- Badge Statis Sebagai Cadangan -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Aktif%20Belajar-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fokus-Web%20Developer%20%7C%20Database-orange?style=for-the-badge" />
 </p>
 
 ### ⌗ Connect With Me
