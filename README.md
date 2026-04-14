@@ -66,27 +66,6 @@ Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration 
 
 ---
 
-## Hubungi Saya
-
-<p align="center">
-  <a href="https://wa.me/6285726385870">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.threads.com/@hfdzrfqyptra">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
-  </a>
-  <a href="https://github.com/hafidz-rifqy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>WhatsApp:</b> +62 857-2638-5870 &nbsp;|&nbsp; 
-  <b>Threads:</b> @hfdzrfqyptra
-</p>
-
----
-
 ## Activity Graph
 
 <p align="center">
@@ -113,38 +92,23 @@ Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration 
 
 ---
 
-## Wakatime Stats
+## Hubungi Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hafidzrifqy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&layout=compact" alt="Wakatime Stats"/>
+  <a href="https://wa.me/6285726385870">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.threads.com/@hfdzrfqyptra">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+  <a href="https://github.com/hafidz-rifqy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
----
-
-## Contribution Graph Snake
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafidz-rifqy/hafidz-rifqy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafidz-rifqy/hafidz-rifqy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hafidz-rifqy/hafidz-rifqy/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/hafidz-rifqy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta" alt="Metrics"/>
-</p>
-
----
-
-## Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <b>WhatsApp:</b> +62 857-2638-5870 &nbsp;|&nbsp; 
+  <b>Threads:</b> @hfdzrfqyptra
 </p>
 
 ---
@@ -160,9 +124,5 @@ Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration 
   <br><br>
   
   From <b>Hafidz Rifqy Putra Ariyanto</b>
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Last%20Updated-2026--04--14-blue?style=flat-square" alt="Last Updated"/>
   
 </div>
