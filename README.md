@@ -1,38 +1,31 @@
 <div align="center">
-  <img src="https://github.com/hafidz-rifqy/hafidz-rifqy/blob/main/profile.jpg" alt="Hafidz Rifqy Putra Ariyanto" width="180" style="border-radius: 50%; border: 3px solid #3b82f6; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://github.com/hafidz-rifqy/hafidz-rifqy/blob/main/profile.jpg" alt="Hafidz Rifqy Putra Ariyanto" width="180" style="border-radius: 50%; border: 3px solid #3b82f6;"/>
   
-  # Hafidz Rifqy Putra Ariyanto 👨‍💻
+  # Hafidz Rifqy Putra Ariyanto
   
-  <p align="center">
+  <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Database+Enthusiast;Pelajar+Kelas+X;Domisili+Kota+Kediri;Pengalaman+6+Bulan" alt="Typing SVG" />
   </p>
 </div>
 
 ---
 
-## 🧑‍💻 Tentang Saya
+## Tentang Saya
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>Saya adalah seorang <b>pelajar kelas X</b> yang berdomisili di <b>Kota Kediri, Jawa Timur</b>. Saya memiliki ketertarikan besar terhadap perkembangan teknologi di era digital saat ini. Di tengah pesatnya inovasi, saya terus berupaya untuk belajar dan memahami berbagai aspek teknologi, mulai dari penggunaan perangkat digital, penguasaan aplikasi, hingga dasar-dasar dunia pemrograman.</p>
-      <p>Dengan pengalaman <b>6 bulan</b> di bidang <b>Web Development</b> dan <b>Configuration Databases</b>, saya terus mengasah kemampuan untuk menjadi developer yang handal di masa depan.</p>
-      <ul>
-        <li>🎓 <b>Kelas:</b> X (Sepuluh)</li>
-        <li>📍 <b>Domisili:</b> Kota Kediri, Jawa Timur</li>
-        <li>💼 <b>Pengalaman:</b> 6 Bulan</li>
-        <li>🎯 <b>Fokus:</b> Web Developer & Database Configuration</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hafidz-rifqy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
+Saya adalah seorang **pelajar kelas X** yang berdomisili di **Kota Kediri, Jawa Timur**. Saya memiliki ketertarikan besar terhadap perkembangan teknologi di era digital saat ini. Di tengah pesatnya inovasi, saya terus berupaya untuk belajar dan memahami berbagai aspek teknologi, mulai dari penggunaan perangkat digital, penguasaan aplikasi, hingga dasar-dasar dunia pemrograman.
+
+Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration Databases**, saya terus mengasah kemampuan untuk menjadi developer yang handal di masa depan.
+
+| Detail | Informasi |
+|--------|-----------|
+| Kelas | X (Sepuluh) |
+| Domisili | Kota Kediri, Jawa Timur |
+| Pengalaman | 6 Bulan |
+| Fokus | Web Developer & Database Configuration |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -54,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/hafidz-rifqy">
@@ -68,35 +61,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafidz-rifqy&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hafidz-rifqy&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📂 Project Saya
-
-<p align="center">
-  <a href="https://github.com/hafidz-rifqy?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍%20Lihat%20Semua%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-  </a>
-</p>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Web Development</h3>
-      <p align="center">Project-project website menggunakan HTML, CSS, PHP, dan JavaScript</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🗄️ Database Configuration</h3>
-      <p align="center">Konfigurasi dan manajemen database MySQL untuk aplikasi web</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📬 Hubungi Saya
+## Hubungi Saya
 
 <p align="center">
   <a href="https://wa.me/6285726385870">
@@ -108,29 +78,18 @@
   <a href="https://github.com/hafidz-rifqy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:hafidzrifqy@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 <p align="center">
-  <b>📱 WhatsApp:</b> <a href="https://wa.me/6285726385870">+62 857-2638-5870</a><br>
-  <b>🧵 Threads:</b> <a href="https://www.threads.com/@hfdzrfqyptra">@hfdzrfqyptra</a>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafidz-rifqy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph"/>
+  <b>WhatsApp:</b> +62 857-2638-5870 &nbsp;|&nbsp; 
+  <b>Threads:</b> @hfdzrfqyptra
 </p>
 
 ---
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=hafidz-rifqy&label=👀%20Profile%20Views&style=flat-square&color=3B82F6" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=hafidz-rifqy&label=Profile%20Views&style=flat-square&color=3B82F6" alt="Profile views"/>
   
   <br><br>
   
@@ -138,6 +97,6 @@
   
   <br><br>
   
-  ⭐ From [Hafidz Rifqy Putra Ariyanto](https://github.com/hafidz-rifqy)
+  From <b>Hafidz Rifqy Putra Ariyanto</b>
   
 </div>
