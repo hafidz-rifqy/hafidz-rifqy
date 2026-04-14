@@ -31,14 +31,21 @@ Berikut adalah teknologi yang biasa saya gunakan sehari-hari:
 ---
 
 ### ⌗ GitHub Statistics
+
+<!-- Kartu Statistik Utama (Readme Stats) -->
 <p align="center">
   <a href="https://github.com/hafidz-rifqy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafidz-rifqy&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz-rifqy&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafidz-rifqy&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Hafidz's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/hafidz-rifqy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz-rifqy&layout=compact&theme=dark&langs_count=6" alt="Top Languages"/>
   </a>
 </p>
 
----
+<!-- Alternatif: Statistik Streak (Opsional, tapi bagus untuk ditampilkan) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidz-rifqy&theme=dark" alt="GitHub Streak"/>
+</p>
 
 ### ⌗ Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafidz-rifqy)
