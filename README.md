@@ -87,6 +87,68 @@ Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration 
 
 ---
 
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafidz-rifqy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" alt="Activity Graph"/>
+</p>
+
+---
+
+## Analitik & Statistik Lengkap
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafidz-rifqy&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafidz-rifqy&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafidz-rifqy&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafidz-rifqy&theme=tokyonight" alt="Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafidz-rifqy&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
+</p>
+
+---
+
+## Wakatime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hafidzrifqy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&layout=compact" alt="Wakatime Stats"/>
+</p>
+
+---
+
+## Contribution Graph Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafidz-rifqy/hafidz-rifqy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafidz-rifqy/hafidz-rifqy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hafidz-rifqy/hafidz-rifqy/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/hafidz-rifqy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta" alt="Metrics"/>
+</p>
+
+---
+
+## Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=hafidz-rifqy&label=Profile%20Views&style=flat-square&color=3B82F6" alt="Profile views"/>
@@ -98,5 +160,9 @@ Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration 
   <br><br>
   
   From <b>Hafidz Rifqy Putra Ariyanto</b>
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Last%20Updated-2026--04--14-blue?style=flat-square" alt="Last Updated"/>
   
 </div>
