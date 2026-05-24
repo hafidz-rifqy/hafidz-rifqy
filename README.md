@@ -4,7 +4,7 @@
   # Hafidz Rifqy Putra Ariyanto
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Database+Configuration;Pelajar+Kelas+X;Domisili+Kota+Kediri;Pengalaman+6+Bulan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Web+Developer;Database+Configuration;Pelajar+Kelas+X;Domisili+Kota+Kediri;Pengalaman+6+Bulan" alt="Typing SVG" />
   </p>
 </div>
 
