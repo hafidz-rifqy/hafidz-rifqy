@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/hafidz-rifqy/hafidz-rifqy/blob/main/profile.jpg" alt="Hafidz Rifqy Putra Ariyanto" width="180" style="border-radius: 50%; border: 3px solid #3b82f6;"/>
+  <img src="https://github.com/hafidz-rifqy/hafidz-rifqy/blob/main/profile.jpg" alt="Hafidz Rifqy Putra Ariyanto" width="180" height="180" style="border-radius: 50%; border: 3px solid #3b82f6; object-fit: cover;"/>
   
   # Hafidz Rifqy Putra Ariyanto
   
