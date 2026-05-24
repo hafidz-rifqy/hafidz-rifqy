@@ -47,25 +47,6 @@ Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration 
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/hafidz-rifqy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafidz-rifqy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz-rifqy&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidz-rifqy&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafidz-rifqy&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## Activity Graph
 
 <p align="center">
