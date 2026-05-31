@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://github.com/hafidz-rifqy/hafidz-rifqy/blob/main/profile.jpg" alt="Hafidz Rifqy Putra Ariyanto" width="180" height="180" style="border-radius: 50%; border: 3px solid #3b82f6; object-fit: cover;"/>
-  
-  # Hafidz Rifqy Putra Ariyanto
+    # Hafidz Rifqy Putra Ariyanto
   
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Web+Developer;Database+Configuration;Pelajar+Kelas+X;Domisili+Kota+Kediri;Pengalaman+6+Bulan" alt="Typing SVG" />
