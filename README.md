@@ -52,24 +52,6 @@ Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration 
 
 ---
 
-## Analitik & Statistik Lengkap
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafidz-rifqy&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafidz-rifqy&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafidz-rifqy&theme=tokyonight" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafidz-rifqy&theme=tokyonight" alt="Stats Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafidz-rifqy&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
-</p>
-
----
-
 ## Hubungi Saya
 
 <p align="center">
