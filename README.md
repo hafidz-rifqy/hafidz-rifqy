@@ -9,7 +9,7 @@
 
 ## Tentang Saya
 
-Saya adalah seorang **pelajar kelas X** yang berdomisili di **Kota Kediri, Jawa Timur**. Saya memiliki ketertarikan besar terhadap perkembangan teknologi di era digital saat ini. Di tengah pesatnya inovasi, saya terus berupaya untuk belajar dan memahami berbagai aspek teknologi, mulai dari penggunaan perangkat digital, penguasaan aplikasi, hingga dasar-dasar dunia pemrograman.
+Saya adalah seorang **pelajar kelas XI** yang berdomisili di **Kota Kediri, Jawa Timur**. Saya memiliki ketertarikan besar terhadap perkembangan teknologi di era digital saat ini. Di tengah pesatnya inovasi, saya terus berupaya untuk belajar dan memahami berbagai aspek teknologi, mulai dari penggunaan perangkat digital, penguasaan aplikasi, hingga dasar-dasar dunia pemrograman.
 
 Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration Databases**, saya terus mengasah kemampuan untuk menjadi developer yang handal di masa depan.
 
