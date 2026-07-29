@@ -15,9 +15,9 @@ Dengan pengalaman **6 bulan** di bidang **Web Development** dan **Configuration 
 
 | Detail | Informasi |
 |--------|-----------|
-| Kelas | X (Sepuluh) |
+| Kelas | XI (Sebelas) |
 | Domisili | Kota Kediri, Jawa Timur |
-| Pengalaman | 6 Bulan |
+| Pengalaman | 1 tahun 2 bulan |
 | Fokus | Web Developer & Database Configuration |
 
 ---
