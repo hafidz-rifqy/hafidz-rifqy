@@ -44,14 +44,6 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Configuration 
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafidz-rifqy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" alt="Activity Graph"/>
-</p>
-
----
-
 ## Hubungi Saya
 
 <p align="center">
