@@ -61,7 +61,7 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Configuration 
 
 <p align="center">
   <b>WhatsApp:</b> +62 857-2638-5870 &nbsp;|&nbsp; 
-  <b>Threads:</b> @hfdzrfqyptra
+  <b>Threads:</b> @hafidzrifqyputra
 </p>
 
 ---
