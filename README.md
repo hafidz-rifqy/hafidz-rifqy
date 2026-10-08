@@ -1,7 +1,7 @@
     # Hafidz Rifqy Putra Ariyanto
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Web+Developer;Database+Configuration;Pelajar+Kelas+X;Domisili+Kota+Kediri;Pengalaman+2+tahun" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Web+Developer;Database+Configuration;Fokus+Bidang+Backend+Engineer;Domisili+Kota+Kediri;Pengalaman+2+tahun" alt="Typing SVG" />
   </p>
 </div>
 
@@ -11,7 +11,7 @@
 
 Saya adalah seorang **pelajar kelas XI** yang berdomisili di **Kota Kediri, Jawa Timur**. Saya memiliki ketertarikan besar terhadap perkembangan teknologi di era digital saat ini. Di tengah pesatnya inovasi, saya terus berupaya untuk belajar dan memahami berbagai aspek teknologi, mulai dari penggunaan perangkat digital, penguasaan aplikasi, hingga dasar-dasar dunia pemrograman.
 
-Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Configuration Databases**, saya memfokuskan diri untuk lebih kebidang **Backend Engineer* saya terus mengasah kemampuan untuk menjadi developer yang handal di masa depan.
+Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Configuration Databases**, saya memfokuskan diri untuk lebih kebidang **Backend Engineer** saya terus mengasah kemampuan untuk menjadi developer yang handal di masa depan.
 
 | Detail | Informasi |
 |--------|-----------|
