@@ -11,7 +11,7 @@
 
 Saya adalah seorang **pelajar kelas XI** yang berdomisili di **Kota Kediri, Jawa Timur**. Saya memiliki ketertarikan besar terhadap perkembangan teknologi di era digital saat ini. Di tengah pesatnya inovasi, saya terus berupaya untuk belajar dan memahami berbagai aspek teknologi, mulai dari penggunaan perangkat digital, penguasaan aplikasi, hingga dasar-dasar dunia pemrograman.
 
-Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Configuration Databases**, saya terus mengasah kemampuan untuk menjadi developer yang handal di masa depan.
+Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Configuration Databases**, saya memfokuskan diri untuk lebih kebidang **Backend Engineer* saya terus mengasah kemampuan untuk menjadi developer yang handal di masa depan.
 
 | Detail | Informasi |
 |--------|-----------|
