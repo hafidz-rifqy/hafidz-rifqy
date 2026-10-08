@@ -16,6 +16,7 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Configuration 
 | Detail | Informasi |
 |--------|-----------|
 | Kelas | XI (Sebelas) |
+| Student | SMK TI Pelita Nusantara |
 | Domisili | Kota Kediri, Jawa Timur |
 | Pengalaman | 2 tahun |
 | Fokus | Web Developer & Database Configuration |
