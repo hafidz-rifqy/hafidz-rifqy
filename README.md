@@ -98,19 +98,7 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Database Confi
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=hafidz-rifqy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz-rifqy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top Languages"/>
 
-<br>
 
-<img src="https://streak-stats.demolab.com?user=hafidz-rifqy&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hafidz-rifqy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafidz-rifqy&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity Graph"/>
-
-</div>
 
 ---
 
