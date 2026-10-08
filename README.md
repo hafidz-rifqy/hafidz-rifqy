@@ -30,14 +30,6 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Database Confi
 
 ---
 
-## 🚀 Sedang Saya Kerjakan
-
-- 🔭 Membangun **REST API** dengan autentikasi **JWT**
-- 🗄️ Mendalami **desain database** (normalisasi, indexing, query optimization)
-- 🐳 Belajar **Docker** untuk containerization
-- 🌱 Mempelajari **Laravel**, **Node.js**, dan **PostgreSQL**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -98,19 +90,6 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Database Confi
 
 ---
 
-## 🧠 Skill Backend Engineer
-
-```text
-✔ Membangun & mendokumentasikan RESTful API
-✔ Desain skema database & relasi (ERD, normalisasi)
-✔ Query SQL, indexing, & optimasi performa
-✔ Autentikasi & otorisasi (JWT, session, hashing password)
-✔ Validasi input & pencegahan SQL Injection / XSS
-✔ Version control dengan Git & kolaborasi lewat GitHub
-✔ Deployment dasar di server Linux (Nginx / Apache)
-```
-
----
 
 ## 📊 Statistik GitHub
 
@@ -135,17 +114,6 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Database Confi
 
 ---
 
-## 🐍 Kontribusi
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hafidz-rifqy/hafidz-rifqy/output/github-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-> 💡 **Catatan:** animasi ular di atas butuh GitHub Action [Platane/snk](https://github.com/Platane/snk) di repo `hafidz-rifqy/hafidz-rifqy`. Kalau belum diaktifkan, hapus bagian ini.
-
----
 
 ## 📬 Hubungi Saya
 
@@ -153,7 +121,7 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Database Confi
   <a href="https://wa.me/6285726385870">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.threads.com/@hfdzrfqyptra">
+  <a href="https://www.threads.com/@hafidzrifqyputra">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
   <a href="https://github.com/hafidz-rifqy">
@@ -163,7 +131,7 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Database Confi
 
 <p align="center">
   <b>WhatsApp:</b> +62 857-2638-5870 &nbsp;|&nbsp;
-  <b>Threads:</b> @hfdzrfqyptra
+  <b>Threads:</b> @hafidzrifqyputra
 </p>
 
 ---
@@ -171,12 +139,6 @@ Dengan pengalaman **2 tahun** di bidang **Web Development** dan **Database Confi
 <div align="center">
 
 <i>"Terus belajar, terus berkembang. Teknologi tidak pernah berhenti, begitu pula saya."</i>
-
-<br><br>
-
-⭐ Kalau profil ini menarik, jangan lupa kasih **star** dan **follow**! ⭐
-
-<br>
 
 From <b>Hafidz Rifqy Putra Ariyanto</b>
 
