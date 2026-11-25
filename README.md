@@ -102,21 +102,20 @@ saya memfokuskan diri dan menekuni pada bidang **Web Developer** **&** **Backend
 ## 📬 Hubungi Saya
 
 <p align="center">
-  <a href="https://wa.me/6285726385870">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
   <a href="https://www.threads.com/@hafidzrifqyputra">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
   <a href="https://github.com/hafidz-rifqy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="hafidzrifqyariyanto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-070707?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://x.com/hafidzyhven">
+    <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  </a>
 </p>
 
-<p align="center">
-  <b>WhatsApp:</b> +62 857-2638-5870 &nbsp;|&nbsp;
-  <b>Threads:</b> @hafidzrifqyputra
-</p>
 
 ---
 
