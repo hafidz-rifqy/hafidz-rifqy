@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Hafidz%20Rifqy%20Putra%20Ariyanto&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20in%20the%20Making&descAlignY=56&descSize=18" alt="Header"/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Fokus+Bidang+Backend+Engineer;Domisili+Kota+Kediri;Membangun+API+yang+rapi+%26+aman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Engineer;Domisili+Kota+Kediri;Membangun+API+yang+rapi+%26+aman" alt="Typing SVG" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=hafidz-rifqy&label=Profile%20Views&style=flat-square&color=3B82F6" alt="Profile views"/>
@@ -18,7 +18,7 @@
 
 Saya adalah seorang **pelajar kelas XI** yang berdomisili di **Kota Kediri, Jawa Timur**. Saya memiliki ketertarikan besar terhadap perkembangan teknologi di era digital saat ini. Di tengah pesatnya inovasi, saya terus berupaya belajar dan memahami berbagai aspek teknologi, mulai dari penggunaan perangkat digital, penguasaan aplikasi, hingga dasar-dasar dunia pemrograman.
 
-saya memfokuskan diri pada bidang **Backend Engineer** dan terus mengasah kemampuan untuk menjadi engineer yang handal di masa depan.
+saya memfokuskan diri dan menekuni pada bidang **Web Developer** **&** **Backend Engineer** dan terus mengasah kemampuan untuk menjadi engineer yang handal di masa depan.
 
 | Detail | Informasi |
 |--------|-----------|
